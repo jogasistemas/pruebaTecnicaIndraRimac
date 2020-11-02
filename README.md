@@ -3,6 +3,7 @@
 2) configure your aws credentials
 
  command : aws configure
+ 
   AWS Access Key ID [****************GN4W]:[put your Key]
   AWS Secret Access Key [****************exO9]:[put your Secret Key]
  Default region name [us-east-1]:[regin name]
